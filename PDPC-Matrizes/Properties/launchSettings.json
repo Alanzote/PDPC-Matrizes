@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Coordinator": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    },
+    "Calculator": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDPC-Matrizes", "PDPC-Matrizes\PDPC-Matrizes.csproj", "{29392DAF-80CC-4785-B5C6-084A47DB19E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Calculator|Any CPU = Calculator|Any CPU
+		Coordinator|Any CPU = Coordinator|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29392DAF-80CC-4785-B5C6-084A47DB19E4}.Calculator|Any CPU.ActiveCfg = Calculator|Any CPU
+		{29392DAF-80CC-4785-B5C6-084A47DB19E4}.Calculator|Any CPU.Build.0 = Calculator|Any CPU
+		{29392DAF-80CC-4785-B5C6-084A47DB19E4}.Coordinator|Any CPU.ActiveCfg = Coordinator|Any CPU
+		{29392DAF-80CC-4785-B5C6-084A47DB19E4}.Coordinator|Any CPU.Build.0 = Coordinator|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17110A56-7F4A-451F-84CD-B0682DCE227B}
+	EndGlobalSection
+EndGlobal
